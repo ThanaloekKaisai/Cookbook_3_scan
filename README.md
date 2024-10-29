@@ -2,6 +2,7 @@
 Example นี้จะทำหน้าที่ในการ scan access point บริเวณที่ ESP32 สามารถเชื่อมต่อได้โดยที่จะสามารถกำหนดจำนวน WiFi ที่มองเห็นได้
 
 เริ่มจากการ Show Example โดยที่เราจะเลือก scan
+
 ![image](https://github.com/user-attachments/assets/268319ca-de7c-49e8-9f83-d66e1c8af63b)
 
 จากนั้นไปที่ menuconfig แล้วค้นหา Max size of scan list
